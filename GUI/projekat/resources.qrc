@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>matfopoly.png</file>
+    </qresource>
+</RCC>
