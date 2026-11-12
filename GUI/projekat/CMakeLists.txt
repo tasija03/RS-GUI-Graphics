@@ -30,6 +30,9 @@ set(PROJECT_SOURCES
     settingsprozor.ui
     settingsprozor.h
     settingsprozor.cpp
+    general.cpp
+    general.h
+    general.ui
 )
 
 add_executable(projekat

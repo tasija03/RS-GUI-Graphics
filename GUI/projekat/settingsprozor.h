@@ -17,6 +17,9 @@ public:
 
 private:
     Ui::settingsProzor *ui;
+
+private slots:
+    void otvoriDrugiProzor();
 };
 
 #endif // SETTINGSPROZOR_H

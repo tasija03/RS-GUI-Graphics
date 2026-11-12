@@ -2,6 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QWidget>
+#include <QFrame>
 
 // Forward deklaracija Qt UI klase
 QT_BEGIN_NAMESPACE
